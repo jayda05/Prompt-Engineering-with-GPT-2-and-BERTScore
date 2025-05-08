@@ -1,0 +1,16 @@
+Prompt Type,Output #,BERTScore F1
+Direct,1,0.8327
+Direct,2,0.8381
+Direct,3,0.8422
+Scenario,1,0.8412
+Scenario,2,0.8227
+Scenario,3,0.8325
+Persona,1,0.8405
+Persona,2,0.8401
+Persona,3,0.8262
+Keyword,1,0.8319
+Keyword,2,0.8306
+Keyword,3,0.8397
+Conversational,1,0.8249
+Conversational,2,0.8235
+Conversational,3,0.8270
